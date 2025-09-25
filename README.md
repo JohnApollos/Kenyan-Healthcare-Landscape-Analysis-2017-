@@ -113,4 +113,4 @@ pip install pandas openpyxl matplotlib seaborn geopandas folium
 jupyter notebook
 ```
 
-Open the Health_Facility_Analysis.ipynb file and run the cells.
+5. Open the Health_Facility_Analysis.ipynb file and run the cells.
