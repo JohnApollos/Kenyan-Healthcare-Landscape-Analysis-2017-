@@ -72,17 +72,19 @@ This interactive map provides a geospatial view of facility distribution, with d
 ## Data Sources
 - **Primary Dataset:** Kenya Health Facilities (August 2017) from the [Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset/kenya-health-facilities-in-kenya), originally sourced from the Kenya Ministry of Health.
 
-Geospatial Data: [Kenyan Counties GeoJSON](https://open.africa/dataset/kenya-counties-json/resource/4fb2e27e-c001-4b7f-b71d-4fee4a96a0f8?view_id=919b8909-03a8-4127-b63c-cc815620cea1) for county boundary mapping.
+- Geospatial Data: [Kenyan Counties GeoJSON](https://open.africa/dataset/kenya-counties-json/resource/4fb2e27e-c001-4b7f-b71d-4fee4a96a0f8?view_id=919b8909-03a8-4127-b63c-cc815620cea1) for county boundary mapping.
 
 ---
 
 ## Project Structure
+```
 kenya-health-analysis/
 │
 ├── kenya-health-facilities-2017_08_02.xlsx  # The raw health facility data
 ├── kenyan-counties.geojson                # The geospatial data for county boundaries
 ├── Health_Facility_Analysis.ipynb         # The main Jupyter Notebook with all the code and analysis
 └── README.md                              # This file
+```
 
 ---
 
